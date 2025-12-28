@@ -1,8 +1,6 @@
 # 💫 About Me:
 I am an AI Engineer based in Delhi, India, specializing in Autonomous Agentic Workflows and Production MLOps. My work focuses on bridging the gap between advanced AI research and scalable, full-stack applications.<br><br>I am particularly interested in architecting robust LLM pipelines that prioritize factuality, security (PII redaction), and complex data structures like Graph-RAG.
 
-### 🔗 [Visit My Portfolio Website](https://portfolio-5pwj.vercel.app/)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishek.zgx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-mishra-b76993317) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://portfolio-5pwj.vercel.app/)
 
